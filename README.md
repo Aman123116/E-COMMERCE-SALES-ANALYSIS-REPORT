@@ -1,5 +1,5 @@
 # E-COMMERCE-SALES-ANALYSIS-REPORT
-Interactive eCommerce sales analysis report featuring KPIs, stacked column chart, treemap, slicers, cards, donut and pie charts, funnel visualization, and platform-wise sales breakdown. Designed to explore sales trends and customer behavior using dynamic filtering effects.
+Interactive eCommerce sales analysis report built using over 50,000+ rows and many columns of sales data featuring KPIs, stacked column chart, treemap, slicers, cards, donut and pie charts, funnel visualization, and platform-wise sales breakdown. Designed to explore sales trends and customer behavior using dynamic filtering effects.
 
 📊 eCommerce Sales Analysis Report
 This Power BI project presents an interactive eCommerce sales analysis dashboard designed to uncover insights about sales performance, customer behavior, and platform trends.
